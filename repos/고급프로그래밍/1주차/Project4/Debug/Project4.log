@@ -1,0 +1,8 @@
+﻿  test1.cpp
+C:\Users\kbhcy\source\repos\고급프로그래밍\1주차\Project4\test1.cpp(14,8): warning C4477: 'scanf' : 서식 문자열 '%ld'에 'long *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\Users\kbhcy\source\repos\고급프로그래밍\1주차\Project4\test1.cpp(14,8): warning C4477: 'scanf' : 서식 문자열 '%ld'에 'long *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+C:\Users\kbhcy\source\repos\고급프로그래밍\1주차\Project4\test1.cpp(15,9): warning C4477: 'printf' : 서식 문자열 '%ld'에 'long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\Users\kbhcy\source\repos\고급프로그래밍\1주차\Project4\test1.cpp(15,9): warning C4477: 'printf' : 서식 문자열 '%ld'에 'long' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double'입니다.
+C:\Users\kbhcy\source\repos\고급프로그래밍\1주차\Project4\test1.cpp(8,11): warning C4101: 'count' :참조되지 않은 지역 변수입니다.
+C:\Users\kbhcy\source\repos\고급프로그래밍\1주차\Project4\test1.cpp(8,6): warning C4101: 'age' :참조되지 않은 지역 변수입니다.
+  Project4.vcxproj -> C:\Users\kbhcy\source\repos\고급프로그래밍\1주차\Project4\Debug\Project4.exe
