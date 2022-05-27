@@ -1,0 +1,5 @@
+﻿  전역변수 .cpp
+C:\Users\kbhcy\source\repos\game\Tetris-game-in-C-lang-master_2\Program\전역변수 .cpp(26,14): error C2065: 'MAIN_Y': 선언되지 않은 식별자입니다.
+C:\Users\kbhcy\source\repos\game\Tetris-game-in-C-lang-master_2\Program\전역변수 .cpp(26,22): error C2065: 'MAIN_X': 선언되지 않은 식별자입니다.
+C:\Users\kbhcy\source\repos\game\Tetris-game-in-C-lang-master_2\Program\전역변수 .cpp(27,14): error C2065: 'MAIN_Y': 선언되지 않은 식별자입니다.
+C:\Users\kbhcy\source\repos\game\Tetris-game-in-C-lang-master_2\Program\전역변수 .cpp(27,22): error C2065: 'MAIN_X': 선언되지 않은 식별자입니다.
